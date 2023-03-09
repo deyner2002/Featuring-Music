@@ -1,0 +1,1 @@
+"System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at Loyal.API.Providers.Auditoria.AuditoriaProvider.UpdateFormulario(ProyectoDTO proyecto) in C:\\Users\\HP\\Documents\\AIR-E\\Loyal\\Loyal.API\\Providers\\Auditoria\\AuditoriaProvider.cs:line 1021"

@@ -1,0 +1,159 @@
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.exe
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.deps.json
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.runtimeconfig.json
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.pdb
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.AssemblyInfo.cs
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.CopyComplete
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\refint\CORE.Loyal.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.pdb
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.genruntimeconfig.cache
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\CORE.Loyal\obj\Debug\net6.0\ref\CORE.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.exe
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.deps.json
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.runtimeconfig.json
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.pdb
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.AssemblyInfo.cs
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.CopyComplete
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\refint\CORE.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.pdb
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.genruntimeconfig.cache
+C:\Users\HP\source\repos\FTMUSIC\CORE.Loyal\obj\Debug\net6.0\ref\CORE.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.exe
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.deps.json
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.runtimeconfig.json
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\CORE.Loyal.pdb
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.AssemblyInfo.cs
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.csproj.CopyComplete
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\refint\CORE.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.pdb
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\CORE.Loyal.genruntimeconfig.cache
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\CORE.Loyal\obj\Debug\net6.0\ref\CORE.Loyal.dll

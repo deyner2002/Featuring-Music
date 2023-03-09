@@ -1,0 +1,1 @@
+"System.InvalidCastException: Object cannot be cast from DBNull to other types.\r\n   at System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)\r\n   at System.Convert.ToDateTime(Object value)\r\n   at Loyal.API.Providers.Auditoria.ProyectoProvider.GetList() in C:\\Users\\HP\\Documents\\AIR-E\\Loyal\\Loyal.API\\Providers\\Auditoria\\ProyectoProvider.cs:line 47"

@@ -1,0 +1,1 @@
+"System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at Loyal.API.Controllers.AudiAsignacionController.CargarExcelClientes(IFormFile archivoExcel, Int64 usuario, Int64 consecutivoProyecto) in C:\\Users\\HP\\Documents\\AIR-E\\Loyal\\Loyal.API\\Controllers\\AudiAsignacionController.cs:line 225"

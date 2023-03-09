@@ -1,0 +1,36 @@
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.deps.json
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.AssemblyInfo.cs
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\refint\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\AuditoriaNuevaArquitectura\SUPPORT.Loyal\obj\Debug\net6.0\ref\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.deps.json
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.AssemblyInfo.cs
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\refint\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\FTMUSIC\SUPPORT.Loyal\obj\Debug\net6.0\ref\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.deps.json
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\bin\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.AssemblyInfo.cs
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\refint\SUPPORT.Loyal.dll
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\SUPPORT.Loyal.pdb
+C:\Users\HP\source\repos\Feacturing Music\FTMUSICAPI\SUPPORT.Loyal\obj\Debug\net6.0\ref\SUPPORT.Loyal.dll
